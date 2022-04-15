@@ -1,9 +1,9 @@
 {
-  "name": "@pitpe11/google-search",
+  "name": "@pitpe12/google-search",
   "description": "node.js client for google search API",
   "version": "0.0.6",
   "homepage": "https://github.com/Pitpe12/google-search",
-  "author": "Pitpe12",
+  "author": "pitpe12",
   "repository": {
     "type": "git",
     "url": "git://github.com/Pitpe12/google-search.git"
@@ -19,9 +19,6 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "publishConfig": {
-    "@pitpe11:registry": "https://www.npmjs.com/package/"
   },
   "license": "MIT",
   "bugs": {
