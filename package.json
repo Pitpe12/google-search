@@ -21,7 +21,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@pitpe11:registry": "https://www.npmjs.com/package/@pitpe11/google-search"
+    "@pitpe11:registry": "https://www.npmjs.com/package/"
   },
   "license": "MIT"
 }
