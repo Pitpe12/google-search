@@ -1,15 +1,30 @@
 {
-    "name": "google-search",
-    "description": "node.js client for google search API",
-    "version": "0.0.4",
-    "homepage": "http://github.com/aykutyaman/google-search",
-    "author": "Aykut Yaman <yaman.ayk@gmail.com>",
-    "repository": {
-	"type": "git",
-	"url": "http://github.com/aykutyaman/google-search.git"
-    },
-    "dependencies": {
-	"underscore": "1.3.3",
-	"url": "0.7.9"
-    }
+  "name": "@pitpe11/google-search",
+  "description": "node.js client for google search API",
+  "version": "0.0.6",
+  "homepage": "http://github.com/aykutyaman/google-search",
+  "author": "Aykut Yaman <yaman.ayk@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aykutyaman/google-search.git"
+  },
+  "dependencies": {
+    "underscore": "1.3.3",
+    "url": "0.7.9"
+  },
+  "bugs": {
+    "url": "https://github.com/aykutyaman/google-search/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+   "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+ },
+  "license": "MIT"
 }
