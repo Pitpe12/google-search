@@ -2,8 +2,8 @@
   "name": "@pitpe11/google-search",
   "description": "node.js client for google search API",
   "version": "0.0.6",
-  "homepage": "http://github.com/aykutyaman/google-search",
-  "author": "Aykut Yaman <yaman.ayk@gmail.com>",
+  "homepage": "https://github.com/Pitpe12/google-search",
+  "author": "Pitpe12",
   "repository": {
     "type": "git",
     "url": "git://github.com/Pitpe12/google-search.git"
